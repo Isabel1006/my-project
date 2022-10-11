@@ -1,4 +1,3 @@
-alert("Hello World");
 function formatDate(date) {
   let days = [
     "Sunday",
